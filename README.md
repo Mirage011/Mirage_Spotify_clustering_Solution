@@ -1,1 +1,1 @@
-# Mirage_Spotify_clustering_Solution
+# Mirage_Spotify_clustering_Model
